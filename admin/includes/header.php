@@ -1,3 +1,4 @@
+<?php require "../admin/config/function.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
 
